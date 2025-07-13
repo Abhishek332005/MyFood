@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Aloo Paratha",
+    "description": "Stuffed paratha with potato filling.",
+    "price": 60,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/736x/3f/a8/73/3fa873adf33e95ebcbf203a1d024ce2a.jpg"
+  },
+  {
+    "name": "Poha",
+    "description": "Light and healthy beaten rice breakfast.",
+    "price": 40,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/736x/f7/b2/08/f7b208ffa3a5a1b5d934836da4332ff9.jpg"
+  },
+  {
+    "name": "Paneer Paratha",
+    "description": "Flatbread stuffed with spicy cottage cheese filling.",
+    "price": 70,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/1200x/09/4e/84/094e84a7e61a04b40d78833432b85544.jpg"
+  },
+  {
+    "name": "Idli Sambhar",
+    "description": "Soft steamed rice cakes served with lentil soup.",
+    "price": 50,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/736x/e2/90/7e/e2907ec58db3447f2dd8dad00c832c0c.jpg"
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Crispy rice pancake filled with spicy potato mash.",
+    "price": 80,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/736x/2b/35/43/2b3543cf136127e86cffce7c835b5a61.jpg"
+  },
+   {
+    "name": "Rice Paneer",
+    "description": "Crispy rice pancake filled with spicy potato mash.",
+    "price": 80,
+    "category": "Breakfast",
+    "img": "https://i.pinimg.com/736x/50/10/70/501070b8ad052e84ffbc51dda93b80b2.jpg"
+  }
+]

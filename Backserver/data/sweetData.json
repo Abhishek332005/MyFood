@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Gulab Jamun",
+        "description": "Soft, deep-fried khoya balls soaked in rose-flavored sugar syrup.",
+        "price":"49",
+        "category":"Sweet",
+        "img":"https://i.pinimg.com/736x/3a/be/47/3abe47631a81db307696c968b1b0b3be.jpg"
+    },{
+        "name":"Rasgulla",
+        "description":" Spongy white balls made from chhena (cottage cheese) soaked in light sugar syrup.",
+        "price":"49",
+        "category":"Sweet",
+        "img":"https://i.pinimg.com/1200x/85/eb/62/85eb62403daffc2522514e776bc7109c.jpg"
+    },
+    {
+        "name":"Kaju Katli",
+        "description":"Thin diamond-shaped cashew fudge made with ground cashews and sugar.",
+        "price":"99",
+        "category":"Sweet",
+        "img":"https://i.pinimg.com/1200x/94/0b/5c/940b5ca81a00f8b8a4e74715e02309a5.jpg"
+    },
+    {
+        "name":"Soan Papdi",
+        "description":"Flaky and crispy sweet with a melt-in-mouth texture, made from gram flour and sugar.",
+        "price":"99",
+        "category":"Sweet",
+        "img":"https://i.pinimg.com/736x/a9/e0/39/a9e0391b2947111b58feb8b8cb8ba017.jpg"
+    }
+]
+

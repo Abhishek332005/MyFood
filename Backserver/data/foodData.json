@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Veg Biryani",
+    "description": "Aromatic rice with vegetables and Indian spices.",
+    "price": 120,
+    "category": "Main Course",
+    "img": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyeWFuaXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Paneer Tikka",
+    "description": "Grilled paneer cubes marinated with spices.",
+    "price": 150,
+    "category": "Starter",
+    "img": "https://i.pinimg.com/1200x/b2/cb/6d/b2cb6d5e24b3432d44e829ab7fc045d8.jpg"
+  },
+  {
+    "name": "Cheese Burger",
+    "description": "Juicy burger with cheddar cheese and veggies.",
+    "price": 90,
+    "category": "Fast Food",
+    "img": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Crispy dosa with spicy potato filling.",
+    "price": 80,
+    "category": "South Indian",
+    "img": "https://i.pinimg.com/1200x/87/30/53/8730536da1ff2cbb6708220854acf8b3.jpg"
+  },
+  {
+    "name": "Chicken Curry",
+    "description": "Tender chicken in spicy Indian curry.",
+    "price": 180,
+    "category": "Non-Veg",
+    "img": "https://i.pinimg.com/1200x/8c/23/f3/8c23f3cabfaf3aaf1e18ee27edfde5ab.jpg"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Cheesy pizza with classic tomato sauce.",
+    "price": 200,
+    "category": "Italian",
+    "img": "https://i.pinimg.com/1200x/30/2b/d3/302bd34ab158e93df6f4b7fcc0ce8b46.jpg"
+  },
+  {
+    "name": "Butter Naan",
+    "description": "Soft naan cooked in tandoor and brushed with butter.",
+    "price": 30,
+    "category": "Bread",
+    "img": "https://i.pinimg.com/1200x/c3/98/b1/c398b1367a78955ae6f7edd80107cf18.jpg"
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Soft fried sweet balls soaked in sugar syrup.",
+    "price": 50,
+    "category": "Dessert",
+    "img": "https://i.pinimg.com/736x/41/77/92/4177920dbd75f39879704d84f9458473.jpg"
+  },
+  {
+    "name": "Cold Coffee",
+    "description": "Chilled coffee with cream and ice.",
+    "price": 70,
+    "category": "Beverage",
+    "img": "https://i.pinimg.com/1200x/18/da/2f/18da2fad7461d22ec47f3a8d7da6e7b3.jpg"
+  },
+  {
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas served with fluffy fried bread.",
+    "price": 100,
+    "category": "North Indian",
+    "img": "https://i.pinimg.com/736x/23/ff/54/23ff54faa8628ac0b378003d51b400e4.jpg"
+  }
+]

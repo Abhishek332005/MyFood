@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "Paneer Butter Masala",
+        "description": "Creamy tomato-based gravy with paneer cubes.",
+        "price":"49",
+        "category":"Dinner",
+        "img":"https://i.pinimg.com/736x/35/b3/a5/35b3a5ce12f09c64e1868af62a970dfc.jpg"
+    },{
+        "name":"Aloo Gobi",
+        "description":" Stir-fried potatoes and cauliflower with spices.",
+        "price":"49",
+        "category":"Dinner",
+        "img":"https://i.pinimg.com/1200x/50/46/8d/50468d8840ad59406fe42f5dc7c5d7d1.jpg"
+    },
+    {
+        "name":"Fish Curry & Rice",
+        "description":"Tangy fish curry (coastal style) with steamed rice.",
+        "price":"99",
+        "category":"Dinner",
+        "img":"https://i.pinimg.com/1200x/af/0f/fa/af0ffac2d17ab1155085351309f28131.jpg"
+    },
+    {
+        "name":"Chicken Curry",
+        "description":"Desi chicken cooked in spicy onion-tomato gravy.",
+        "price":"99",
+        "category":"Dinner",
+        "img":"https://i.pinimg.com/1200x/8c/23/f3/8c23f3cabfaf3aaf1e18ee27edfde5ab.jpg"
+    }
+]
+    
+
