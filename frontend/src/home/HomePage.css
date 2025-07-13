@@ -1,0 +1,57 @@
+section .main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position:relative;
+    top: 130px;
+}
+section .main .men_text h1{
+    font-size: 60px;
+        position: relative;
+        top: -90px;
+        left: 145px;
+
+}
+section .main .men_text h1 span{
+    color: #fac031;
+    font-family: mv boli;
+    line-height: 20px;
+    font-size: 70px;
+}
+section .main .main_image img{
+    width: 700px;
+    position: relative;
+    left: 0px;
+}
+section p{
+    width: 650px;
+    text-align: center;
+    position: relative;
+    left: 130px;
+    bottom: 120px;
+    line-height: 22px;
+}
+section .main_btn{
+    background: #fac031;
+    position: relative;
+    left: 150px;
+    bottom: 30px;
+    width: 115px;
+    cursor: pointer;
+    padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+}
+section .main_btn a{
+    color: white;
+    margin-right: 5px;
+    text-decoration: none;
+}
+section .main_btn{
+    color: #fff;
+    transition: 0.3s;
+    
+}
+section .main_btn:hover{
+    transform: translate(7px);
+}
