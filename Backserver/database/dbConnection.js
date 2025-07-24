@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const db_url = `mongodb+srv://Manishcluster:manishsharma54@manishcluster.ie7ge.mongodb.net/Abhi`
+const db_url = // add here your mongodb database link
 
 const dbConnect=async()=>{
 
